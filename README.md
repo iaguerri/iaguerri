@@ -4,10 +4,10 @@
 I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I like Geoinformatics. I want to merge data, environmental and social impact. 
 
 <a href="mailto:ireneaguerri@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white"/></a>
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=black) https://www.codewars.com/users/iaguerri/badges/micro
-![Github](https://img.shields.io/badge/GitHub-@iaguerri-success?style=flat-squared&logo=github)(https://github.com/iaguerri)
-![Codewars](https://img.shields.io/badge/Twitter-@_i_aguerri-9cf?style=flat-squared&logo=twitter)(https://twitter.com/i_aguerri)
-[![LinkedIn](https://img.shields.io/badge/Linked-In-blue?style=flat-squared&logo=linkedin)(https://www.linkedin.com/in/ireneaguerri/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=black)](https://www.codewars.com/users/iaguerri/badges/micro)
+[![Github](https://img.shields.io/badge/GitHub-@iaguerri-success?style=flat-squared&logo=github)](https://github.com/iaguerri)
+[![Twitter](https://img.shields.io/badge/Twitter-@_i_aguerri-9cf?style=flat-squared&logo=twitter)](https://twitter.com/i_aguerri)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue?style=flat-squared&logo=linkedin)](https://www.linkedin.com/in/ireneaguerri/)
 
 
 
@@ -20,7 +20,7 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   
   #### 📋 Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,7 +42,6 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
   
-
   #### 💾 Databases
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,5 +50,5 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   [Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
   
   
- https://github-readme-stats.vercel.app/api?username=iaguerri&theme=blue-green)]
- https://github-readme-stats.vercel.app/api/top-langs/?username={iaguerri}
+ https://github-readme-stats.vercel.app/api?username=iaguerri&theme=blue-green)
+ https://github-readme-stats.vercel.app/api/top-langs/?username=iaguerri
