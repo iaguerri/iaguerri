@@ -28,7 +28,7 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   
   #### Visualization
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Tableau] (https://images.credly.com/images/03b3f12b-6fa8-4266-95cc-2ac11f7db126/blob.png)
+  ![Tableau](https://images.credly.com/images/03b3f12b-6fa8-4266-95cc-2ac11f7db126/blob.png)
 
 ---
 
