@@ -53,5 +53,5 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   [Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
   
   ---
- ![github stats]https://github-readme-stats.vercel.app/api?username=iaguerri&theme=blue-green)
- ![github stats]https://github-readme-stats.vercel.app/api/top-langs/?username=iaguerri
+ ![github stats](https://github-readme-stats.vercel.app/api?username=iaguerri&theme=blue-green)
+ ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iaguerri)
