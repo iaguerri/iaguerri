@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
+## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> 
 
 ### About me
 I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I like Geoinformatics. I want to merge data, environmental and social impact. 
@@ -9,11 +9,11 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
 [![Twitter](https://img.shields.io/badge/Twitter-@_i_aguerri-9cf?style=flat-squared&logo=twitter)](https://twitter.com/i_aguerri)
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue?style=flat-squared&logo=linkedin)](https://www.linkedin.com/in/ireneaguerri/)
 
-
-
+---
 
 ### Technology stack
-- Data Science & Analytics
+
+## **Data Science & Analytics**
   #### 📚 Frameworks, Platforms and Libraries and Language
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -28,8 +28,9 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   #### Visualization
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
-- Front-end and Web Development
+## **Front-end and Web Development**
   #### 📚 Frameworks, Platforms and Libraries and Language
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -49,6 +50,6 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   [Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
   
-  
- https://github-readme-stats.vercel.app/api?username=iaguerri&theme=blue-green)
- https://github-readme-stats.vercel.app/api/top-langs/?username=iaguerri
+  ---
+ ![github stats]https://github-readme-stats.vercel.app/api?username=iaguerri&theme=blue-green)
+ ![github stats]https://github-readme-stats.vercel.app/api/top-langs/?username=iaguerri
