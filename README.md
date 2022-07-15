@@ -4,7 +4,7 @@
 I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I like Geoinformatics. I want to merge data, environmental and social impact. 
 
 <!--<a href="mailto:ireneaguerri@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white"/></a> -->
-[!Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white)](mailto:ireneaguerri@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white)](mailto:ireneaguerri@gmail.com)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)](https://www.codewars.com/users/iaguerri)
 [![Github](https://img.shields.io/badge/GitHub-@iaguerri-success?style=for-the-badge&logo=github)](https://github.com/iaguerri)
 [![Twitter](https://img.shields.io/badge/Twitter-@_i_aguerri-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/i_aguerri)
@@ -28,7 +28,7 @@ I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I
   
   #### Visualization
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Tableau](https://images.credly.com/images/03b3f12b-6fa8-4266-95cc-2ac11f7db126/blob.png)
+
 
 ---
 
