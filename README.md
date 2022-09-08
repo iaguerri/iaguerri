@@ -3,6 +3,9 @@
 ### About me
 I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I like Geoinformatics. I want to merge data, environmental and social impact. 
 
+Now I'm working at  <img src="https://user-images.githubusercontent.com/35624830/189067207-6a59cf69-03bb-4d50-9926-b3e0ec489b72.svg" width="48" href="https://github.com/INSPIDE">  as Geodata Analyst helping to develop the Portall tech.
+
+
 <!--<a href="mailto:ireneaguerri@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white"/></a> -->
 [![Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white)](mailto:ireneaguerri@gmail.com)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)](https://www.codewars.com/users/iaguerri)
