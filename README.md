@@ -9,9 +9,6 @@ Now I'm working at  <img src="https://user-images.githubusercontent.com/35624830
 <!--<a href="mailto:ireneaguerri@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white"/></a> -->
 [![Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white)](mailto:ireneaguerri@gmail.com)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)](https://www.codewars.com/users/iaguerri)
-[![Github](https://img.shields.io/badge/GitHub-@iaguerri-success?style=for-the-badge&logo=github)](https://github.com/iaguerri)
-[![Twitter](https://img.shields.io/badge/Twitter-@_i_aguerri-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/i_aguerri)
-[![LinkedIn](https://img.shields.io/badge/Linked-In-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ireneaguerri/)
 
 ---
 
