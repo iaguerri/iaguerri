@@ -1,7 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> 
 
 ### About me
-I'm Irene Aguerri. I'm a GIS Engineer. I have studies in Forestry and GIS, and I like Geoinformatics. I want to merge data, environmental and social impact. 
+I'm Irene Aguerri. I'm a Geospatial Data Engineer. I have studies in Forestry, GIS, and Data Analytics and I like Geoinformatics. I want to merge data, environmental and social impact. 
 
 Now I'm working at INDRA as Geodata Analyst developing a Transport Application with OSM Data for Spanish cities
 
